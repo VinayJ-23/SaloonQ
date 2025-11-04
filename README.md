@@ -1,8 +1,7 @@
 # 🚀 SaloonQ is Live (Android Only)!
 
 👉 **Download for Android:**  
-🔗 [Link 1]https://drive.google.com/file/d/1XkxmK05qQNoHQY0KRvIPofEHof1KH-NN/view?usp=drive_link
-🔗 [Link 2]https://drive.usercontent.google.com/download?id=1XkxmK05qQNoHQY0KRvIPofEHof1KH-NN&export=download&authuser=0&confirm=t&uuid=7ccd8eb1-e5e9-4da4-9b15-d9a370684978
+🔗 saloonqueue.vercel.app
 
 After months of designing, debugging, and refining — I’m excited to share that **SaloonQ**, my real-world Barber Queue Management App, is now live for local testing! 💈📱
 
